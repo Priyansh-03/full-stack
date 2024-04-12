@@ -1,0 +1,23 @@
+#app {
+    background-color: blue;
+    padding: 20px;
+}
+  
+#Component1 {
+    background-color: red;
+    padding: 15px;
+}
+
+#Component2 {
+    background-color: yellow;
+    padding: 10px;
+}
+
+#Component3 {
+    background-color: green;
+    padding: 5px;
+}
+#Component2.clicked {
+    background-color: orange;
+    
+}
